@@ -273,7 +273,7 @@ void MenuPersona()
     int op = 0;
     do
     {
-        Console.WriteLine("Para este ejercicio puedes crear los siguiente:");
+        Console.WriteLine("Crea los siguiente perfiles:");
         Console.WriteLine("1. Estudiante.");
         Console.WriteLine("2. Profesor.");
         Console.WriteLine("3. Director.");
