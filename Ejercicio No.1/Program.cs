@@ -67,22 +67,6 @@ notas[3] = notas1;
 
 Serie series = new Serie();
 
-Aula aula7 = new Aula()
-{
-    Grado = "Primero Basico",
-    Materia = "Matematicas",
-    TotalAlumnos = 10,
-};
-aula.Add(aula7);
-
-Aula aula8 = new Aula()
-{
-    Grado = "Segundo Basico",
-    Materia = "Programación",
-    TotalAlumnos = 20,
-};
-aula.Add(aula8);
-
 Aula aula2 = new Aula()
 {
     IdAlumno = 1,
