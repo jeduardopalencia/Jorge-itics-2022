@@ -1,0 +1,15 @@
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\bin\Debug\net6.0\Ejercicio No.1.exe
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\bin\Debug\net6.0\Ejercicio No.1.deps.json
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\bin\Debug\net6.0\Ejercicio No.1.runtimeconfig.json
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\bin\Debug\net6.0\Ejercicio No.1.dll
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\bin\Debug\net6.0\Ejercicio No.1.pdb
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\obj\Debug\net6.0\Ejercicio No.1.csproj.AssemblyReference.cache
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\obj\Debug\net6.0\Ejercicio No.1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\obj\Debug\net6.0\Ejercicio No.1.AssemblyInfoInputs.cache
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\obj\Debug\net6.0\Ejercicio No.1.AssemblyInfo.cs
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\obj\Debug\net6.0\Ejercicio No.1.csproj.CoreCompileInputs.cache
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\obj\Debug\net6.0\Ejercicio No.1.dll
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\obj\Debug\net6.0\refint\Ejercicio No.1.dll
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\obj\Debug\net6.0\Ejercicio No.1.pdb
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\obj\Debug\net6.0\Ejercicio No.1.genruntimeconfig.cache
+A:\Documentos\CARRERAS TÉCNICAS\TÉCNICO DE PROGRAMACIÓN DE PC\TRIMESTRE III\PROGRAMACION POO\TAREA No.4\Ejercicio No.1\Ejercicio No.1\obj\Debug\net6.0\ref\Ejercicio No.1.dll
