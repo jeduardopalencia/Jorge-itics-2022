@@ -304,7 +304,7 @@ void MenuAnimales()
     int o = 0;
     do
     {
-        Console.WriteLine("Elige el animal a registrar:");
+        Console.WriteLine("Elige al animalito a registrar:");
         Console.WriteLine("1. Terrestre.");
         Console.WriteLine("2. Acuatico.");
         Console.WriteLine("3. Volador.");
