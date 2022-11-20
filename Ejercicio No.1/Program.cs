@@ -242,7 +242,7 @@ void MenuAreas()
     int op = 0;
     do
     {
-        Console.WriteLine("Elige el area a saber:");
+        Console.WriteLine("Elige el area:");
         Console.WriteLine("1. Triangulo escaleno.");
         Console.WriteLine("2. Triangulo isosceles.");
         Console.WriteLine("3. Rectangulo.");
