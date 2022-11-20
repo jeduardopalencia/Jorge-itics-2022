@@ -67,28 +67,6 @@ notas[3] = notas1;
 
 Serie series = new Serie();
 
-Aula aula2 = new Aula()
-{
-    IdAlumno = 1,
-    Nombre = "Mishell Díaz",
-    Genero = "Femenina",
-    Edad = 17,
-    Grado = "Tercero Basico",
-    Notas = 100
-};
-aula.Add(aula2);
-
-Aula aula3 = new Aula()
-{
-    IdAlumno = 2,
-    Nombre = "Melissa Ovalle",
-    Genero = "Femenina",
-    Edad = 17,
-    Grado = "Tercero Basico",
-    Notas = 95
-};
-aula.Add(aula3);
-
 Aula aula4 = new Aula()
 {
     IdAlumno = 3,
