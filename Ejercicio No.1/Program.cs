@@ -182,8 +182,8 @@ void MenuSeries()
     do
     {
         Console.WriteLine("Elige la opción a utilizar:");
-        Console.WriteLine("1. Crear serie.");
-        Console.WriteLine("2. Buscar serie.");
+        Console.WriteLine("1. Crear la serie.");
+        Console.WriteLine("2. Buscar las series que quieras.");
         Console.WriteLine("3. Regresar a menú anterior.");
         op = Convert.ToInt32(Console.ReadLine());
 
